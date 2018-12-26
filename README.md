@@ -29,3 +29,4 @@ stage/commit/push
 githib Username & password will be asked
 
 read more: notyourdadsit com/blog/2018/4/3/cheatsheet-setup-github-on-visual-studio-code
+read more: https://code.visualstudio.com/docs/editor/versioncontrol
